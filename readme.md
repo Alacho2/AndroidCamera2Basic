@@ -1,0 +1,2 @@
+The new Camera2-API is slightly complicated to get set up and I found no good tutorials for it.
+Here is an absolute basic example of getting the rear Camera, displaying the feed from it and capturing an image.
